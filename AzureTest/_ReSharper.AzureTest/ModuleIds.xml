@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="12612A3C-620C-4DE6-BAE0-B2CDFE24EC96" ModuleId="AzureTestWeb" />
+  <Module PersistentId="A0EF46F8-4B1D-4900-AA6C-8F941882F59B" ModuleId="AzureTest.Core" />
+</Modules>
